@@ -1,5 +1,5 @@
 ## Hi there! 👋
-writing code, other stuff...
+learning about computation.
 
 ### Skills
 
