@@ -13,11 +13,10 @@ I love diving into various subjects and topics that pique my interest. I don't f
    ![JavaScript](https://progress-bar.dev/85/?title=JavaScript)
    ![Python](https://progress-bar.dev/75/?title=Python)
    ![C++](https://progress-bar.dev/70/?title=C%2B%2B)
-   ![C](https://progress-bar.dev/65/?title=C)
    ![Kotlin](https://progress-bar.dev/60/?title=Kotlin)
 
 
-   ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marangaa)
+   <!--![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marangaa)>
 
 
 
