@@ -8,7 +8,7 @@ Welcome to my repository, learning and exploring the world of computation.
 - **Databases:** MongoDB, MySQL, PostgreSQL
 - **Version Control:** Git
 
-I love diving into various subjects and topics that pique my interest. I don't follow a defined structure; instead, I learn as I go along, making the journey of discovery an exciting adventure.
+I love diving into various subjects and topics that pique my interest. I don't follow a defined structure; instead, I learn as I go along...
 
    ![JavaScript](https://progress-bar.dev/85/?title=JavaScript)
    ![Python](https://progress-bar.dev/75/?title=Python)
