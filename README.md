@@ -17,10 +17,6 @@ I love diving into various subjects and topics that pique my interest. I don't f
    ![Go](https://progress-bar.dev/60/?title=Go)
 
 
-   <!--![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marangaa)>
-
-
-
 Feel free to explore my repositories and projects. If you're interested in collaborating or have any questions, don't hesitate to reach out.
 
 🚀
