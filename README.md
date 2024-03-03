@@ -1,5 +1,5 @@
 ## Hi there! 👋
-Welcome to my GitHub repository, where I'm passionate about learning and exploring the world of computation.
+Welcome to my repository, learning and exploring the world of computation.
 
 ### Skills
 
